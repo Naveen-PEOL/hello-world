@@ -1,2 +1,2 @@
 # hello-world
-Getting start with github
+Let's go, crushh github
